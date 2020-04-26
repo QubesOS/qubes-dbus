@@ -1,3 +1,5 @@
+**This component is obsolete, functionally replaced with https://github.com/QubesOS/qubes-core-admin-client**
+
 # Qubesdbus
 
 This package contains a qubes extension called `QubesDbusProxy` and Qubes D-Bus
